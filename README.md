@@ -1,6 +1,7 @@
 # cinema_app
 
 A new Flutter project.
+<img src='https://i.imgur.com/3Rd2DbY.png' width='200' size='200' /> <img src='https://i.imgur.com/0ju9C1F.png' width='200' size='200' /> <img src='https://i.imgur.com/adJMhnS.png' width='200' size='200' />
 
 ## Getting Started
 
